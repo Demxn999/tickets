@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tickets</string>
+    <string name="firstAirport">Вылет</string>
+    <string name="lastAirport">Прилёт</string>
+    <string name="firstDate">Дата отправления</string>
+    <string name="lastDate">Дата прибытия</string>
+    <string name="adults">Взрослые</string>
+    <string name="children">Дети</string>
+    <string name="babies">Младенцы</string>
+    <string name="search">Поиск</string>
+    <string-array name="airports">
+        <item>Иркутск IKT UIII</item>
+        <item>Витязево AAQ URKA</item>
+        <item>Абакан ABA UNAA</item>
+        <item>Шереметьево SVO UUEE</item>
+        <item>Брянск BZK UUBP</item>
+        <item>Енисейск EIE UNII</item>
+    </string-array>
+</resources>
